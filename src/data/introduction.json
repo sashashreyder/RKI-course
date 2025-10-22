@@ -1,0 +1,81 @@
+{
+    "title": "Introduction",
+    "categories": [
+      {
+        "name": "Nouns",
+        "items": [
+          { "word": "Адрес", "ipa": "[A-dres]", "meaning": "Address (m.)", "example": "адреса́ – plural" },
+          { "word": "Возраст", "ipa": "[VOZ-rast]", "meaning": "Age (m.)", "example": "—" },
+          { "word": "Город", "ipa": "[GO-rat]", "meaning": "City (m.)", "example": "города́" },
+          { "word": "Дом", "ipa": "[dom]", "meaning": "House / Home (m.)", "example": "дома́" },
+          { "word": "Друг", "ipa": "[drook]", "meaning": "Friend (m.)", "example": "друзья́" },
+          { "word": "Имя", "ipa": "[EE-mya]", "meaning": "Name (n.)", "example": "имена́" },
+          { "word": "Номер", "ipa": "[NO-mer]", "meaning": "Number (m.)", "example": "номера́" },
+          { "word": "Подруга", "ipa": "[pad-ROO-ga]", "meaning": "Friend (f.)", "example": "подру́ги" },
+          { "word": "Профессия", "ipa": "[pro-FE-si-ya]", "meaning": "Profession (f.)", "example": "профе́ссии" },
+          { "word": "Работа", "ipa": "[ra-BO-ta]", "meaning": "Work / Job (f.)", "example": "—" },
+          { "word": "Семья", "ipa": "[sem-YA]", "meaning": "Family (f.)", "example": "се́мьи" },
+          { "word": "Страна", "ipa": "[stra-NA]", "meaning": "Country (f.)", "example": "стра́ны" },
+          { "word": "Студент", "ipa": "[stu-DENT]", "meaning": "Student (m.)", "example": "студе́нты" },
+          { "word": "Студентка", "ipa": "[stu-DENT-ka]", "meaning": "Student (f.)", "example": "студе́нтки" },
+          { "word": "Телефон", "ipa": "[te-le-FON]", "meaning": "Telephone (m.)", "example": "телефо́ны" },
+          { "word": "Улица", "ipa": "[U-li-tsa]", "meaning": "Street (f.)", "example": "у́лицы" },
+          { "word": "Фамилия", "ipa": "[fa-MEE-li-ya]", "meaning": "Surname (f.)", "example": "фами́лии" },
+          { "word": "Человек", "ipa": "[che-lo-VEK]", "meaning": "Person (m.)", "example": "лю́ди" },
+          { "word": "Электронная почта", "ipa": "[e-lek-TRON-na-ya POCH-ta]", "meaning": "Email (f.)", "example": "—" },
+          { "word": "Язык", "ipa": "[ya-ZYK]", "meaning": "Language (m.)", "example": "языки́" }
+        ]
+      },
+      {
+        "name": "Verbs",
+        "items": [
+          { "word": "Говорить", "ipa": "[ga-vo-REET’]", "meaning": "to speak", "example": "Она говорит" },
+          { "word": "Жить", "ipa": "[zhyt’]", "meaning": "to live", "example": "Он живёт" },
+          { "word": "Звать", "ipa": "[zvat’]", "meaning": "to call / to be named", "example": "Его зовут" },
+          { "word": "Знать", "ipa": "[znat’]", "meaning": "to know", "example": "Он знает" },
+          { "word": "Любить", "ipa": "[lyu-BEET’]", "meaning": "to love / to like", "example": "Он любит" },
+          { "word": "Отдыхать", "ipa": "[at-dy-KHAT’]", "meaning": "to rest", "example": "Она отдыхает" },
+          { "word": "Понимать", "ipa": "[po-ni-MAT’]", "meaning": "to understand", "example": "Он понимает" },
+          { "word": "Работать", "ipa": "[ra-BO-tat’]", "meaning": "to work", "example": "Он работает" },
+          { "word": "Слушать", "ipa": "[SLU-shat’]", "meaning": "to listen", "example": "Он слушает" },
+          { "word": "Учиться", "ipa": "[u-CHIT-sya]", "meaning": "to study", "example": "Он учится" }
+        ]
+      },
+      {
+        "name": "Useful Words",
+        "items": [
+          { "word": "Где?", "ipa": "[gdye]", "meaning": "Where?", "example": "—" },
+          { "word": "Какой?", "ipa": "[ka-KOY]", "meaning": "What? / Which?", "example": "—" },
+          { "word": "Откуда?", "ipa": "[at-KOO-da]", "meaning": "Where from?", "example": "—" },
+          { "word": "Да", "ipa": "[da]", "meaning": "Yes", "example": "—" },
+          { "word": "Нет", "ipa": "[nyet]", "meaning": "No", "example": "—" },
+          { "word": "Здесь / Тут", "ipa": "[zdes’] / [toot]", "meaning": "Here", "example": "—" },
+          { "word": "Там", "ipa": "[tam]", "meaning": "There", "example": "—" },
+          { "word": "Плохо", "ipa": "[PLO-ha]", "meaning": "Bad / Badly", "example": "—" },
+          { "word": "Хорошо", "ipa": "[ha-ra-SHO]", "meaning": "Good / Well", "example": "—" },
+          { "word": "С", "ipa": "[s]", "meaning": "With", "example": "—" }
+        ]
+      },
+      {
+        "name": "Phrases",
+        "items": [
+          { "word": "Как вас зовут?", "ipa": "[kak vas za-VOOT?]", "meaning": "What is your name? (formal)", "example": "—" },
+          { "word": "Меня зовут Анна.", "ipa": "[me-NYA za-VOOT AN-na]", "meaning": "My name is Anna.", "example": "—" },
+          { "word": "Очень приятно!", "ipa": "[O-chen’ pri-YAT-na!]", "meaning": "Nice to meet you!", "example": "—" },
+          { "word": "Как дела?", "ipa": "[kak de-LA?]", "meaning": "How are you?", "example": "—" },
+          { "word": "Хорошо, спасибо.", "ipa": "[ha-ra-SHO, spa-SEE-ba]", "meaning": "Good, thank you.", "example": "—" },
+          { "word": "А у вас?", "ipa": "[a u vas?]", "meaning": "And you? (formal)", "example": "—" },
+          { "word": "Откуда вы?", "ipa": "[at-KOO-da vy?]", "meaning": "Where are you from? (formal)", "example": "—" },
+          { "word": "Я из России.", "ipa": "[ya iz ra-SEE-ee]", "meaning": "I am from Russia.", "example": "—" },
+          { "word": "Где вы живёте?", "ipa": "[gdye vy zhi-VYO-tye?]", "meaning": "Where do you live? (formal)", "example": "—" },
+          { "word": "Я живу в Москве.", "ipa": "[ya zhi-VU v mask-VYE]", "meaning": "I live in Moscow.", "example": "—" },
+          { "word": "Чем вы занимаетесь?", "ipa": "[chem vy za-ni-MA-ye-tes?]", "meaning": "What do you do? (formal)", "example": "—" },
+          { "word": "Я студент.", "ipa": "[ya stu-DENT]", "meaning": "I am a student (m.).", "example": "—" },
+          { "word": "Я работаю.", "ipa": "[ya ra-BO-ta-yu]", "meaning": "I work.", "example": "—" },
+          { "word": "Вы говорите по-английски?", "ipa": "[vy ga-va-REE-tye pa-ang-GLEE-skee?]", "meaning": "Do you speak English?", "example": "—" },
+          { "word": "Извините, я не понимаю.", "ipa": "[iz-vi-NEE-tye, ya nye po-ni-MA-yu]", "meaning": "Sorry, I don’t understand.", "example": "—" }
+        ]
+      }
+    ]
+  }
+  
